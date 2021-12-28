@@ -2,7 +2,7 @@ baseURL = "https://jadicarboni.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Jadi Carboni | Dance and movement"
+title = "Jadi Carboni"
 [[menu.main]]
 URL = "about"
 name = "About"
