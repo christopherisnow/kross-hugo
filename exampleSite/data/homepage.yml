@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: ''
 about:
   enable: true
   content: 'My dedication and interest focus on the possibilities of expression of
@@ -12,7 +12,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
